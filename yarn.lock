@@ -3146,13 +3146,17 @@ guess-ga@^0.3.6:
   dependencies:
     googleapis "^40.0.0"
 
-"guess-parser@file:../guess/packages/guess-parser":
-  version "0.3.6"
+guess-parser@^0.3.8:
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/guess-parser/-/guess-parser-0.3.7.tgz#4a0b393a81e751293105eed652871d7337de4b5e"
+  integrity sha512-38ahXafV4F+C9bXuYfV4bmFg+E7QlC7TehvVnX2igkHxuWzW0CGRqjr6qXh36OyClC2/up6ELceLNxzMVz46iQ==
   dependencies:
     "@wessberg/ts-evaluator" "0.0.21"
 
-"guess-webpack@file:../guess/packages/guess-webpack":
-  version "0.3.6"
+guess-webpack@^0.3.8:
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/guess-webpack/-/guess-webpack-0.3.7.tgz#bccc42c3302d8c4e4219294710b3f8d2198eb6ce"
+  integrity sha512-2ySYnQA9UKeFci6dLutxXsVELvKn3GV+LdQaceOATK/31H1Frc4AbfOsLfdQ6H9/4KFvHW+0jhHNC2lUf26XCA==
   dependencies:
     chalk "^2.4.2"
     copy-webpack-plugin "^5.0.0"
